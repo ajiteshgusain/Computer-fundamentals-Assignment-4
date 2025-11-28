@@ -1,0 +1,5 @@
+# Future Improvements
+
+- Add GUI (Tkinter) or web front-end (Flask).
+- Add unit tests (pytest).
+- Extend to support parentheses / operator precedence.

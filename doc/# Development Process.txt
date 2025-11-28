@@ -1,0 +1,6 @@
+# Development Process
+
+1. Create project and implement core operations.
+2. Add input validation and error handling.
+3. Test edge cases (divide by zero, non-integer input).
+4. Prepare documentation and screenshots.
